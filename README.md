@@ -1,5 +1,5 @@
 # etrace.el
-*A Graphical Prolog Tracer in Emacs"
+*A Graphical Prolog Tracer in Emacs*
 
 This is a mirror of https://www.metalevel.at/etrace/etrace.el
 for use with [straight.el](https://github.com/raxod502/straight.el)
